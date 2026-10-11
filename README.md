@@ -48,12 +48,12 @@ No busco aprender tecnologías solamente por conocerlas. Quiero entenderlas, uti
 ## 📊 Mi actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S.Perez-966&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S.Perez-966&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="165" alt="Lenguajes presentes en mis repositorios" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Perez-966&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Perez-966&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="165" alt="Lenguajes presentes en mis repositorios" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=S.Perez-966&theme=tokyonight&hide_border=true" width="65%" alt="Racha de actividad en GitHub" />
+  <img src="https://streak-stats.demolab.com?user=S-Perez-966&theme=tokyonight&hide_border=true" width="65%" alt="Racha de actividad en GitHub" />
 </p>
 
 ---
